@@ -1,0 +1,4 @@
+translation-fr
+==============
+
+French translation
